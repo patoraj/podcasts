@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="https://www.stvr.sk/media/css/rss/rss.css"?>
+<rss version="2.0">
+<channel>
+    <title>Dante: Božská komédia - Očistec</title>
+    <language>sk</language>
+    <copyright>STVR</copyright>
+    <description>Druhá kantika Danteho Božskej komédie - Očistec - v interpretácii Štefana Bučka s komentárom Miroslavy Vallovej v rozhovore s Táňou Kusou.</description>
+    <link>http://api.rtvs.sk/xml/radio_archive.xml</link>
+<!--  -->
+    <item>
+        <title>Táňa Kusá</title>
+        <description>Úvod k cyklu Božská komédia - Očistec</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000726/00072621-1.mp3" type="audio/mpeg"/>
+        <pubDate>Thu, 15 Oct 2015 10:53:47 +0200</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000726/00072621-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000726/00072621-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>Miroslava Vallová</title>
+        <description>Komentár odborníčky Miroslavy Vallovej o Danteho Božskej komédii, jej pôvabe a aktuálnosti</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000726/00072622-1.mp3" type="audio/mpeg"/>
+        <pubDate>Thu, 15 Oct 2015 10:53:47 +0200</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000726/00072622-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000726/00072622-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>1. rozhovor - Rekapitulácia pekla</title>
+        <description>Rozhovor Táne Kusej s komentátorkou Božskej komédie Miroslavou Vallovou o predchádzajúcej kantike - Pekle</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000730/00073053-1.mp3" type="audio/mpeg"/>
+        <pubDate>Tue, 20 Oct 2015 08:59:50 +0200</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000730/00073053-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000730/00073053-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>1. spev</title>
+        <description>Dante s Vergiliom vyšli z Pekla a znovu vidia hviezdy. Pred nimi je Očistec - kužeľovitá hora na ostrove obohnanom trstinou.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073150-1.mp3" type="audio/mpeg"/>
+        <pubDate>Wed, 21 Oct 2015 09:18:21 +0200</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073150-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073150-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>2. spev</title>
+        <description>Očistcová hora má sedem okruží symbolizujúcich sedem hlavných hriechov. Dante zbadá loďku s nezatratenými dušami, medzi nimi priateľa Casellu.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073151-1.mp3" type="audio/mpeg"/>
+        <pubDate>Wed, 21 Oct 2015 09:18:21 +0200</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073151-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073151-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>3. spev</title>
+        <description>Prvé pásmo Predočistca, kde sú duše vyobcovaných z cirkvi. Medzi nimi je kráľ Manfréd z rodu Hohenštaufovcov.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073171-1.mp3" type="audio/mpeg"/>
+        <pubDate>Wed, 21 Oct 2015 13:06:03 +0200</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073171-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073171-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>4. spev</title>
+        <description>Dante a Vergilius v druhom pásme Predočistca, kde sa očisťujú duše lenivých. Medzi nimi je Belacqua.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073170-1.mp3" type="audio/mpeg"/>
+        <pubDate>Wed, 21 Oct 2015 13:06:03 +0200</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073170-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000731/00073170-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>5. spev</title>
+        <description>V treťom pásme Predočistca sú duše zavraždených. Medzi nimi je Pia zo Sieny.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073594-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 26 Oct 2015 10:02:40 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073594-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073594-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>6. spev</title>
+        <description>Stále v treťom pásme Predočistca, kde sú duše násilne zabitých. Stretávajú slávneho provensálskeho trubadúra Sordella.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073592-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 26 Oct 2015 10:02:40 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073592-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073592-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>7. spev</title>
+        <description>V Údolí kniežat, kde ôsmi panovníci spievajú Salve Regina - medzi nimi cisár Rudolf Habsburský a český kráľ Přemysl Otakar II.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073593-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 26 Oct 2015 10:02:40 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073593-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000735/00073593-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>8. spev</title>
+        <description>Podvečer v Údolí kniežat, duše spievajú hymnus sv. Ambróza. Nino Visconti sa sťažuje, že naňho zabudla jeho manželka.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000736/00073620-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 26 Oct 2015 13:25:51 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000736/00073620-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000736/00073620-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>2. rozhovor - Danteho doba z pohľadu historika</title>
+        <description>Rozhovor Táne Kusej s historikom doc. Vincentom Múcskom o historickej situácii v Európe v 13. a 14. storočí.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000736/00073623-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 26 Oct 2015 13:28:12 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000736/00073623-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000736/00073623-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>9. spev</title>
+        <description>Anjel mečom vryje Dantemu na čelo sedem P (peccatum) pre sedem smrteľných hriechov a otvorí bránu do Očistca.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074223-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 02 Nov 2015 10:49:27 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074223-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074223-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>10. spev</title>
+        <description>Prvý kruh Očistca, kde sa očisťujú pyšné duše. Na mramorovej skale sú vytesané príbehy pokory ako protiklad pýchy.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074222-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 02 Nov 2015 10:49:27 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074222-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074222-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>11. spev</title>
+        <description>Pyšné duše odriekajú Otčenáš. Dante medzi nimi poznáva troch nadutých: Omberta, Oderisiho a Salvaniho.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074221-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 02 Nov 2015 10:49:27 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074221-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000742/00074221-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>12. spev</title>
+        <description>Anjel zbavuje Danteho prvého P (pýchy). Dante a Vergilius prechádzajú do druhého kruhu Očistca.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000744/00074405-1.mp3" type="audio/mpeg"/>
+        <pubDate>Wed, 04 Nov 2015 09:14:15 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000744/00074405-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000744/00074405-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>3. rozhovor - Kríza v cirkvi a náboženské reformy</title>
+        <description>Rozhovor s historikom doc. Vincentom Múcskom o kríze v cirkvi a reformných hnutiach v 13. a 14. storočí.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000744/00074482-1.mp3" type="audio/mpeg"/>
+        <pubDate>Wed, 04 Nov 2015 14:56:01 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000744/00074482-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000744/00074482-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>13. spev</title>
+        <description>Druhý kruh Očistca pre závistlivcov v sivých plášťoch. Medzi nimi je duša Sapie zo Sieny.</description>
+        <enclosure url="https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000748/00074891-1.mp3" type="audio/mpeg"/>
+        <pubDate>Mon, 09 Nov 2015 13:12:46 +0100</pubDate>
+        <guid isPermaLink="false">https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000748/00074891-1.mp3</guid>
+        <link>https://radio-arch-pp.stv.livebox.sk/a520/00/0007/000748/00074891-1.mp3</link>
+    </item>
+<!--  -->
+    <item>
+        <title>14. spev</title>
+        <description>V druhom kruhu Očistca Danteho oslovia dve závistlivé duše
